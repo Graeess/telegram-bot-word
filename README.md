@@ -13,8 +13,7 @@ docker run -p 8080:8080 telegram-bot-word
 Получите токен у BotFather.
 Укажите токен в application.properties:
 properties
-Копировать
-Редактировать
+
 telegram.bot.token=YOUR_BOT_TOKEN
 
 
